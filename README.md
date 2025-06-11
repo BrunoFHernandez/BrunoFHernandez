@@ -1,7 +1,8 @@
-## Ola!Eu sou o Bruno!
+## Ola, eu sou o Bruno, desenvolvedor de software e apaixonado por tecnologia!
 
-Pessoal que veio atrás do **Github Stats:** a API provavelmente saiu do ar nesse período,
-mas você pode adicionar a sua própria, seguindo esse [tutorial](https://github.com/anuraghazra/github-readme-stats/blob/master/readme.md#deploy-on-your-own-vercel-instance)
+ 👨‍💻 Sobre mim
+
+Sou desenvolvedor apaixonado por tecnologia, focado em Back-end e Front-end. Atualmente, estou estudando tecnologias como Node.js, Next.js, React, entre outras.
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
