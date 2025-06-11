@@ -2,8 +2,10 @@
 
  👨‍💻 Sobre mim
 
-Sou desenvolvedor apaixonado por tecnologia, focado em Back-end e Front-end. Atualmente, estou estudando tecnologias como Node.js, Next.js, React, entre outras.
+Meu nome é Bruno Felipe Hernandez Mazarin, tenho 17 anos e curso o primeiro semestre de Sistemas de Informação na Universidade Federal de Mato Grosso do Sul (UFMS).
 
+ 💻 PRINCIPAIS TECNOLOGIAS:
+ 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
@@ -14,6 +16,7 @@ Sou desenvolvedor apaixonado por tecnologia, focado em Back-end e Front-end. Atu
 </div>
   
   ##
+📞CONTATOS:
  
 <div> 
  <a href="https://discord.com/users/276078105834160129" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
