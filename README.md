@@ -1,9 +1,9 @@
 ## Ola, eu sou o Bruno, desenvolvedor de software e apaixonado por tecnologia!
 
- 👨‍💻 Sobre mim
+ 👨‍💻 SOBRE MIM 
 
 Meu nome é Bruno Felipe Hernandez Mazarin, tenho 17 anos e curso o primeiro semestre de Sistemas de Informação na Universidade Federal de Mato Grosso do Sul (UFMS).
-
+   ##
  💻 PRINCIPAIS TECNOLOGIAS:
  
 <div style="display: inline_block"><br>
